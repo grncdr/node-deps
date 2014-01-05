@@ -1,0 +1,18 @@
+{
+  "name": "node-deps",
+  "version": "0.0.0",
+  "description": "## Web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.12.0",
+    "nimble": "0.0.2",
+    "semver": "~1.1.3",
+    "async": "~0.2.5"
+  }
+}
